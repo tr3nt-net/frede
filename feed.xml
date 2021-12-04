@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test</title>
+    <link href="https://tr3nt-net.github.io/frede/feed.xml" rel="self" />
+    <link href="https://tr3nt-net.github.io/frede" />
+    <updated>2021-12-01T22:26:17+01:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://tr3nt-net.github.io/frede</id>
+
+    <entry>
+        <title>Hallo</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://tr3nt-net.github.io/frede/hallo.html"/>
+        <id>https://tr3nt-net.github.io/frede/hallo.html</id>
+
+        <updated>2021-12-01T22:26:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                    dies ist der lore ipsum ersatz Der Text selbst ist kein richtiges Latein, schon das erste Wort „Lorem“ existiert dort nicht. Dennoch erkennt man im Text eine Reihe lateinischer Wörter, die aus dem sehr ähnlichen Absatz 1.10.32 bis 1.10.33 aus Ciceros De finibus bonorum et&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dies ist der lore ipsum ersatz Der Text selbst ist kein richtiges Latein, schon das erste Wort „Lorem“ existiert dort nicht. Dennoch erkennt man im Text eine Reihe lateinischer Wörter, die aus dem sehr ähnlichen Absatz 1.10.32 bis 1.10.33 aus Ciceros De finibus bonorum et malorum[1] stammen:[2]</p>
+<pre><code>“Neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit […].”
+
+„Ferner gibt es auch niemanden, der den Schmerz um seiner selbst willen liebt, der ihn sucht und haben will, einfach, weil es Schmerz ist […].“
+</code></pre>
+<p>Über die Herkunft des Textes lässt sich keine Klarheit mehr gewinnen. Auch finden sich viele leicht voneinander abweichende Varianten dieses Textes.</p>
+<p>Versionen des Lorem-ipsum-Textes werden mindestens seit den 1960er Jahren im Satz verwendet, als er durch Anzeigen für Letraset-Transferfolien für Anreibebuchstaben populär gemacht wurde.[3] Lorem ipsum wurde Mitte der 1980er Jahre in der digitalen Welt eingeführt, als Aldus es in Grafik- und Textverarbeitungsvorlagen für sein Desktop-Publishing-Programm PageMaker einsetzte. Andere beliebte Textverarbeitungsprogramme, einschließlich Pages und Microsoft Word, haben seitdem Lorem ipsum übernommen.[2] Außerdem ist Lorem impsum in vielen LaTeX-Paketen[4][5][6] und in Web-Content-Managern wie Joomla! und WordPress sowie CSS-Bibliotheken wie Semantic UI enthalten</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

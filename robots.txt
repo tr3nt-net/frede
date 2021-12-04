@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tr3nt-net.github.io/frede/sitemap.xml

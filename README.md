@@ -1,2 +1,0 @@
-# frede
-fredes page
