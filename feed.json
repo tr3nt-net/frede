@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "Ein Jahr in Equador",
     "description": "",
     "home_page_url": "https://tr3nt-net.github.io/frede",
     "feed_url": "https://tr3nt-net.github.io/frede/feed.json",
     "user_comment": "",
-    "icon": "https://tr3nt-net.github.io/frede/media/website/Tungurahua-2.png",
     "author": {
         "name": "test"
     },
